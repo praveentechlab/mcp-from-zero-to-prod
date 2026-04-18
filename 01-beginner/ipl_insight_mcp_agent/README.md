@@ -250,7 +250,7 @@ openai           # OpenAI SDK (used in Episode 4 host app)
 | Episode | Title | Link |
 |---------|-------|------|
 | Ep 01 | MCP Intro & Hello World | [Watch](https://youtu.be/v6ZU1psbLQk) |
-| Ep 02 | Why Async Python Matters \| MCP Tools, Resources & Prompts | Coming Soon |
+| Ep 02 | Why Async Python Matters \| MCP Tools, Resources & Prompts | [**Watch**](https://youtu.be/-STdYXBmoIY)  |
 | **Ep 03** | **Real API Integration — MCP Server as a Bridge** | [**Watch**](https://youtu.be/IHA-ZalATeU) |
 | Ep 04 | LLM Host + Full Agent Demo | Coming Soon |
 
